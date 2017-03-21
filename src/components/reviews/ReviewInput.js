@@ -10,13 +10,3 @@ class ReviewInput extends Component {
     );
   }
 };
-
-export default ReviewInput;<Reviews 
-          store={this.props.store} 
-          restaurantId={this.props.restaurantId} />
-      </div>
-    );
-  }
-};
-
-export default ReviewInput;
